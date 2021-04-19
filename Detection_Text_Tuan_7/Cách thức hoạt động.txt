@@ -1,0 +1,10 @@
+- detectTextVideo.py: nhận diện các ký tự quang học trong 1 video, nhận diện ở đây là file "videoDetectText.mp4".
+
+- detectTextWeb.py: nhận diện các ký tự quang học trực tiếp thông qua webcam, có thể screenshot lại để di chuyển đến file detectTextCutImage.py để cắt hình ảnh cho kết quả chính xác hơn.
+     + Phím "Space": chụp lại màn hình với tên là "image_test1.png".
+     + Phím "q": tắt webcam.
+
+- detectTextCutImage: nhận diện các ký tự quang học thông qua hình ảnh được cắt (thao tác cắt là việc kéo và giữ chuột), hình ảnh được lấy để cắt là hình screenshot ở trên với tên file "image_test1.png".
+     + Phím Enter: xác nhận việc cắt ảnh và đưa ra kết quả.
+     + Hình ảnh được cắt có tên file "imageText.png".
+     + Kết quả được trả về được lưu trong file "result.txt".
