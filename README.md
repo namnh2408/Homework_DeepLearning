@@ -5,4 +5,4 @@ Using submit homework for course
 
 [Prediction Word Tuần 6](https://github.com/namnh2408/Homework_DeepLearning_Team_7/tree/main/Prediction_Word_Tuan_6)
 
-[Detection Text from business card Tuần 7](https://github.com/namnh2408/Homework_DeepLearning_Team_7/tree/main/Detection_Text_Tuan_7)
+[Detection Text from images, video, webcam Tuần 7](https://github.com/namnh2408/Homework_DeepLearning_Team_7/tree/main/Detection_Text_Tuan_7)
